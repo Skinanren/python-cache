@@ -1,0 +1,22 @@
+{
+    "GameStart": {
+        "price": 11.2,
+        "trade_vol": 815,
+        "quantity": 353
+    },
+    "FishCo": {
+        "price": 10,
+        "trade_vol": 597,
+        "quantity": 31
+    },
+    "BoarCo": {
+        "price": 13,
+        "trade_vol": 1239,
+        "quantity": 489
+    },
+    "MenhirCo": {
+        "price": 12.5,
+        "trade_vol": 1058,
+        "quantity": 286
+    }
+}
